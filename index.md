@@ -1,4 +1,4 @@
-# Rishika's First CS193 Homework
+# Rishika's First CS 193 Homework
 ## Welcome to GitHub Pages
 
 My favorite things about CS193
